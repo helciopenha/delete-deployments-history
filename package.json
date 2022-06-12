@@ -1,0 +1,16 @@
+{
+  "name": "githubdeployhistory",
+  "version": "1.0.0",
+  "description": "list and delete github deploy history",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helciopenha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
